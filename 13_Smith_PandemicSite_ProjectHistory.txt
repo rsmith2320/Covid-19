@@ -1,0 +1,10 @@
+
+
+When I first started building this website, it started out as a small WordPress blog filled with the necessary assignments and a short introduction of a website. I did not focus on the presentation of the website and it looked fairly plain with a white and black focus and no images within the text-based development reports. This was essentially what my class called the Publication #1. We had to upload the first few development reports to the website in relation to the University of Nebraska-Lincoln.
+https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/defb1edb-4204-4075-b90b-390f6d35ed43/04-default-template-opt.jpgIt looked a lot like this blank page.
+
+In Publication #2, I decided to work more on the presentation of the website as well as upload some more of the development reports. I created a more presentable front page with a header image and colors that reflect the relationship between COVID-19, Nebraska, and the University of Nebraska-Lincoln. The previous development reports that were uploaded to the website were given images to help their presentation. I had changed the name of the website to better reflect the broad scope of Lincoln, Nebraska rather than just the Lincoln campus.
+
+Now, as the final Publication #3 is finished, I have uploaded the remaining development reports as well as uploaded the backups of information located on GitHub. I did not edit much else on the website for presentation purposes as I felt like the look of my website was sufficient enough for the message I am trying to send. Stresses related to the end of the semester also caused the website to remain stagnant in presentation.
+
+This website will technically never be finished. Its current state is merely as complete as the class requires it to be. There is a lot of information I could add to the website, but not much else is required. Therefore, this website is as finished as much as I could muster into it.
