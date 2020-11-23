@@ -1,0 +1,14 @@
+
+
+Comparative analysis of tools for visualization & narrative creation
+
+The three tool sets used for this Dev report are StoryMap, a combination of GeoJSON and Github, and lastly hand drawing with pencil and paper. StoryMap is the easiest website to use but limited in implementation, GeoJSON allows users to see coding but is not very user friendly, and traditional drawing methods are simple to use but needs more to it if it is considered a digital project.
+
+StoryMap allows the user to create a tour using a map to showcase images and text. In my opinion, StoryMap is the tool that I had the easiest time working with. It is simple to create a title page, add in slides of other areas, and be able to freely move between them when showcasing the map. It is straightforward and works somewhat like PowerPoint but using map locations. However, StoryMap can be very limited, which stifles creativity. The user has a set marker they use for pointing the locations but cannot freely outline a wide area like they could do with GeoJSON.
+
+GeoJSON I personally found to be the most annoying out of the tools to use. Using the software, the user is able to see the coding the map is based around. While it is nice to be able to freely draw the points out on the map and have the creativity to embed more than what the stock design of StoryMap has, it is not very user friendly to use. Embedding images requires using Flickr instead of directly uploading. People that can easily understand code could put this website to good use, but for the casual viewer who might not know about coding, it could be very confusing.
+
+The last technique is hand drawing the visualizations on paper. As Graham states in the reading, “the practice of creating visual representations of data is ancient,” which is why we are working with traditional media as a tool. I decided to draw a picture of part of the UNL campus and marked down a few key areas I took pictures of:
+The drawing that was used for this report.
+
+Unlike StoryMap and GeoJSON, much of what you can do with a physical drawing can be done without limitations. All of the options are freely available for the person to draw. While it is easy and simple to do by hand, it is a lot harder to design it around a digital project. Considering much of our projects are digitally based, it would take a lot more effort to creatively make a main map that popped out as much as the digital ones did. In my opinion, using the pencil and paper method only works as a portion of digital projects and cannot stand alone. It requires either StoryMap or GeoJSON to be put to good use as part of the whole.

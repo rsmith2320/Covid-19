@@ -1,0 +1,26 @@
+Documenting the impact of the Coronavirus at UNL.
+
+Each picture is linked from Flickr, which provides metadata about the image such as the camera used when clicked.
+Protect Yourself and Our Husker Community Sign
+Photo #1. A UNL sign reminding people to follow proper COVID-19 procedure.
+Hand Sanitizing Station
+Photo #2. A UNL hand sanitation station that also thanks people for being safe.
+Bird Scooter
+Photo #3. A Bird scooter sitting unused, either due to the rain or COVID-19 concerns.
+6 Feet Sign
+Photo #4. A UNL sign telling people to stay 6 feet apart.
+Archie
+Photo #5. The Morrill Hall Mammoth statue, Archie, wearing masks on his mouth and trunk to prevent the spread of COVID-19.
+Visit Morrill Hall
+Photo #6. A Morrill Hall sign asking about tickets, masks, and staying 6 feet apart.
+Share the Sidewalk Sign
+Photo #7. A Bike UNL sign telling bikers to yield to pedestrians. Both are wearing masks.
+Please Wear a Mask in This Area Sign
+Photo #8. A UNL sign of Herbie, the school mascot, holding up a mask to let people know masks are required in the area.
+Caution Taped Books
+Photo #9. A section of the UNL library closed off with caution tape due to COVID-19.
+Single File Library Stairs
+Photo #10. Arrows right before the stairs that dictate which direction people are supposed to use them in.
+
+Here is the Excel spreadsheet on additional metadata of the images:
+dublin_core_elements_RS

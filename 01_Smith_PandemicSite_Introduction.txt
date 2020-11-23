@@ -1,0 +1,32 @@
+
+A Digital Humanities Project on COVID-19
+
+Welcome!
+
+Here you can find information on my Digital Humanities project. Simply click on the Blog section to find the project, the Menus button to see all the individual pages, or one of the URLs in the table of contents below.
+
+This project is designed around the impact of the current Coronavirus pandemic, called COVID-19, on the University of Nebraska-Lincoln campus and the Downtown Lincoln area. We are exploring how the pandemic has affected everyday life, how students are handling it, and how we can illustrate the information through the use of digital tools such as WordPress, Flickr, and StoryMap.
+
+There are currently ten parts of the project. Click on the hyperlink to be directed to each section.
+
+DH Dev. Report 1 focuses on the COVID-19 impact on the people of the UNL campus and how they are, or not, following directions.
+
+DH Dev. Report 2 focuses on the websites the class was required to explore in order to decide which would be best suited to our interests regarding publishing websites.
+
+DH Dev. Report 3 focuses on images relating to the COVID-19 effects on the campus. This section features signs, reminders, masks, and other indicators about how the pandemic affects the university.
+
+DH Dev. Report 4 focuses on the COVID-19 impact on the people of Downtown Nebraska and how they are affected by the regulations.
+
+DH Dev. Report 5 focuses on the websites the class was required to explore in order to decide which would be best suited to our interests regarding presenting information about maps.
+
+DH Hour of Code focuses on the game we were required to build to present a story related to COVID-19.
+
+DH Dev. Report 6 focuses on images relating to the COVID-19 effects on the people and places of Downtown Lincoln. This section is presented using StoryMap with a provided drawing.
+
+DH Dev. Report 7 focuses on an essay written about two buildings in the UNL campus and the Native Americans who used to live on the land.
+
+DH Dev. Report 8 focuses on an essay written about the Black Lives Matter movement in the summer of 2020 in Lincoln, Nebraska.
+
+DH Dev. Report 9 focuses on notes written down over the material assigned for week of November 2, 2020.
+
+This website and project are created by Rachel Smith for her ENGL-477 class and is designed as a learning process to discover how to create and manage digital projects.

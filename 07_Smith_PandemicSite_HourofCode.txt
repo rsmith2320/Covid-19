@@ -1,0 +1,6 @@
+
+
+To play the game, CLICK HERE.
+Screenshot of the game
+
+In this game, the goal is to collect as many pigs as you can before a stormtrooper touches you. Every time the player has to maneuver around an obstacle, another stormtrooper and a pig appears. The stormtroopers represent the people who could potentially carry a risk of spreading COVID-19. The pigs represent the everyday tasks people are required to do, such as groceries, in-person classes, work, and other errands that would require someone to interact with other people. By collecting the pigs, you get 10 points. However, the stormtroopers never go away, they keep increasing in numbers as the number of pigs (and time) goes by. This represents the current pandemic where more people will increasingly be infected with the virus inevitably. There is no way to win. With the amount of commands you are able to do in this game, it was very limiting to get my point across. I was not sure how to make it so that as time progresses, the amount of stormtroopers and pigs increase. The same applies if there was a way to slow down the stormtroopers’ movement by staying away from them to represent the impact of staying  6 feet apart.

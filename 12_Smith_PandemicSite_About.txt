@@ -1,0 +1,8 @@
+
+About the Website
+
+This is a project for ENGL-477 about the impact of COVID-19 on Nebraska, as well as the author’s experience with using different publishing websites.
+
+This project uses a variety of digital tools to illustrate the author’s points, using WordPress as a simple backdrop to display this information to its users. The colors Black, White, and Red were chosen to represent Nebraska, the University of Nebraska-Lincoln campus, and COVID-19.
+
+Special Thanks to Hayleigh and Professor Adrian Wisnicki for their feedback on this website.

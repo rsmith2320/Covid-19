@@ -1,0 +1,52 @@
+
+
+This Dev Report focuses on notes taken when looking through most of the material assigned. Each website or reading is labeled with the notes underneath.
+
+1.”Managing 100 Digital Humanities Projects: Digital Scholarship & Archiving in King’s Digital Lab”
+
+    “While technical digital humanities teams now have a vastly more sophisticated range of options than previous generations…this has done little to ease the problem of maintainability or sustainability.” Preserving old digital humanities projects is becoming more difficult to maintain due to lack of funding, different formats, and lack of maintenance.
+    Article plans to discuss the implementation of some solutions in King’s Digital Lab. This is to provoke discussion.
+    “The realisation of robust and holistic approaches to the maintenance of digital research outputs is a matter of some urgency, but no single solution will work for every digital humanities team.” Means that while this does work for some projects, it is not the end-all guide for helping to preserve these projects.
+    “The developed process helped KDL transition many digital humanities projects from an insecure to a sustainable basis, but the work is incomplete and will – in a fundamental sense – never end. Some projects, moreover, cannot be “saved” despite best intentions.” Cannot save everything despite best efforts, but those projects that can be saved will be done with constant care and attention to keep it intact.
+    “Conflating the scholarly and operational aspects of the lab is both an overt act of historicisation – an acknowledgment of the reality of digital scholarship in early 21st century higher education – and a pragmatic response to the inherited and emergent issues outlined in this paper.”
+    “Its institutional setting, technical expertise, and exposure to research problems that only time can generate positions it to explore fundamental issues of digital theory and method (including but not limited to digital entropy), while at the same time developing innovative methods for new research.” Reaffirms that it is an ongoing research process.
+    “Of the 100 projects inherited by the lab, about half are either of exceptionally high quality or seminal in other ways.” Does bring up the question—what is worth saving? Because we cannot preserve everything, why are certain projects preserved over others?
+    “Such circumstances entail a considerable moral bind: either ignore the demands of (some) project owners that their projects’ digital publications and data continue in perpetuity and turn them off (risking reputational damage and reducing the number of DH projects available to users, more often than not initially supported via public funding), introduce financial risk by maintaining them gratis (absorbing unfunded maintenance costs and undermining other activities), or do nothing and accept the existential risks that accompany a major security breach.” Ties into the problem of funding issues—cannot maintain the project if there is not an organization or institution willing to provide for the research.
+    “Limited or no support existed for significant post-funding system maintenance. In that sense, the funders themselves signalled that they did not expect (or were not prepared to support) the development of long-term or permanent digital resources.” Hard to get funding for permanent support of websites. They may be only for a short-term project designed to present information for what the organizers were planning for in the moment. Once they were done, they do not continue to support the projects.
+    “In large part the issues inherited by KDL are the result of a wider conceptual failure, and an inability (or unwillingness) to search ‘for critical and methodological approaches to digital research in the humanities grounded in the nature of computing technology and capable of guiding technical development as well as critical and historical analysis.’”
+    “If digital humanities projects become known for not only soaking up valuable money that could be used in other disciplines, but using that money on unsustainable projects, the central raison d’être of the wider tradition – using digital tools and methods to answer research questions in the humanities – will be undermined.” People might assume that digital humanities projects are a waste of time and resources when they are not maintained to an extent.
+    “Much like research, software development rarely takes a linear path, and the relative volatility of the open web and rapid development of new technologies presents an ecosystem within which published work needs to be protected and maintained over time.”
+    “Digital projects benefit from being planned and executed with their longevity in mind from the start.” However, not everyone is willing to plan that far ahead for projects they see in the short-term, especially when it comes to funding.
+    “Digital curation has been described as a ‘new discipline’  [Adams 2009 (Links to an external site.)], evolving from archives and libraries tasked with assessing digital material for collection, use, and preservation. KDL’s process for archiving inherited ‘legacy’ projects reflects this.”
+    Discussion of how KDL’s handling preservation.
+    “all PIs, internal and external, were offered three scenarios:
+        Service Level Agreements, and (where appropriate) software updates, which guaranteed hosting, regular software maintenance, and server updates under renewable two to five-year contracts, costed on the basis of individual project requirements and including Statements of Work (SoWs), when required, for necessary additional upgrade work.   
+        For non-King’s staff, migration to the partner institution for local hosting.    
+        Archiving of websites no longer in active use. This option did not result in the destruction of research data and could entail rendering websites static for migration to a legacy server, or packaging for archival storage.” This one can be a problem.
+    More discussion of KDL’s archiving techniques, like “KDL is discussing an arrangement with the British Library National Web Archive to improve technical and procedural alignment”
+    “The aim was to conclude the financial year of 2016/2017 with no undocumented or out of contract legacy projects remaining on KDL servers, and all legacy projects that were neither migrated nor archived being brought under Service Level Agreements. That was not completely achieved, but results were satisfactory.” Proves the project is not perfect but is doing its best.
+    “King’s Digital Lab has implemented pragmatic processes that take into account the human, as well as the technical, financial and political perspectives implicit in digital scholarship… Contrary to what might have been expected, KDL’s experience of introducing the level of transparency and process described in this article was almost uniformly positive.”
+
+    Internet Archive Software Collection
+
+    Lots of old games, some I remember from my childhood days, are located within the archive. Usually these are called Abandonware because the original developers no longer make money from them, stop supporting them on newer hardware, and they might not work anymore.
+    Notable games: Frogger 1997, Zoo Tycoon, I Spy games, Tonka Construction, Jumpstart First Grade, and Barbie Pet Rescue.
+    I first discovered this section back in the Summer of this year. Played a few over the summer and sometimes during my break periods over last weekend.
+    Games targeted at very young kids do not hold up after a replay as they are too simple or limited. However, games targeted at all ages like the Zoo Tycoon series still hold up
+    To make sure the emulation of the old games works, use VirtualBox and a copy of an older version of Windows. Using Windows XP seemed to work fine with all the games I played.
+    I wholly support preserving old games like these for nostalgic experiences and people who had never heard of certain games until recently. It is a shame that there are not more companies supporting the preservation of old games.
+
+    Voyant
+
+    I have actually used Voyant in a previous class to take a look at the words of a work of fiction.
+    This website is a great tool to see which words are commonly used through a written work or a group of works. For instance, finding trends in word patterns that might be more common in some genres or books than others. This includes a word cloud, a graph of the frequency of words, and a summary of the trends.
+    I looked though Shakespeare’s works as it was provided on the website. The three most frequent words in his work are “shall,” “lord,” and “king.” Much of the “distinctive words” in each of the works are names. The longest work he has written was Hamlet, with the shortest work being the Comedy of Errors.
+    I like how it also gives context to each instance of the word chosen so the reader can see where a word was used in a given work.
+
+    GitHub
+
+    Have I mentioned I still do not like using GitHub to upload files? Because it is still pretty annoying. Even downloading from there is annoying and confusing at times because parts of projects I need are not directly outlined in a way that allows the full picture. It seems to just focus on the parts of the whole of projects.
+    It is simple enough to add text and strings to the documentations, I suppose, but I just do not like working with code.
+    What do I need to know about metadata collection and refinement? Probably how to remember the exact locations of where I take pictures because I tend to forget them easily.
+    Three issues—how to breeze through GitHub uploading, how to use code in my project documentation effectively, and how to add metadata to pictures without having to use the excel document.
+
